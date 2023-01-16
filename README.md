@@ -1,7 +1,7 @@
 # Backdoor
 This is a command line-based backdoor which will take control of the system on which it is run also it is written in python.
 
-This Repositary contains 2 files: - 
+# This Repositary contains 2 files: - 
 
 Readme.md: This file is what you are reading. This file has all Instructions related to how to Execute this code.
 
@@ -9,7 +9,7 @@ backdoor.py: - It is a file that contains our main code which is a client model 
 
 Netcat: - A tool that will listens our backdoor take the connection back to our machines.
 
-Requirements
+# Requirements
 
 To run this project, we need to install the following Software’s.
 
@@ -19,7 +19,7 @@ Pycharm IDE : Pycharm Integrated Development Environment is used to develop the 
 
 Ubuntu(any linux Distribution) : Any distribution of Linux is fine, however this time we are using Ubuntu
 
-Steps to Use the Files.
+# Steps to Use the Files.
 
 Step 1: Unzip the zip file.
 
