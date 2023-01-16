@@ -3,7 +3,7 @@ This is a command line-based backdoor which will take control of the system on w
 
 This zip file contains 2 files: - 
 
-Document.doc: This file is what you are reading. This file has all Instructions related to how to Execute this code.
+Readme.md: This file is what you are reading. This file has all Instructions related to how to Execute this code.
 
 backdoor.py: - It is a file that contains our main code which is a client model use to take control over others machines.
 
