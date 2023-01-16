@@ -1,7 +1,7 @@
 # Backdoor
 This is a command line-based backdoor which will take control of the system on which it is run also it is written in python.
 
-This zip file contains 2 files: - 
+This Repositary contains 2 files: - 
 
 Readme.md: This file is what you are reading. This file has all Instructions related to how to Execute this code.
 
